@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetMyIp": {
+      "commandName": "Project",
+      "commandLineArgs": "http://icanhazip.com"
+    }
+  }
+}
